@@ -19,7 +19,7 @@ I'm a software developer specializing in Python and Django.
 - 🐍 Flask | FastAPI
 - 🦾 TensorFlow
 
-## 🛠️ Current Working On
+## 🛠️ Currently Working On
 - Django-CMS projects
 - Learning ML
 - Creating a crypto-trading bot
@@ -28,18 +28,3 @@ I'm a software developer specializing in Python and Django.
 - [LinkedIn](https://www.linkedin.com/in/artur-romanchenko-35636826b/)
 - [Telegram](https://t.me/nayti_mayonez)
 - [Write me](mailto:RomanchenkoAS@yandex.ru)
-
-<!--
-**RomanchenkoAS/RomanchenkoAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
