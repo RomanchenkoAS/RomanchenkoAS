@@ -1,6 +1,4 @@
 # Hello, I'm Artur 👋
-
-## 🚀 About Me
 I'm a software developer specializing in Python and Django.
 
 ## 👯 Core Skills and Experience 
