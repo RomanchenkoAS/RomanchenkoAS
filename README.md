@@ -21,7 +21,7 @@ I'm a software developer specializing in Python and Django.
 
 ## 🛠️ Current Working On
 - Django-CMS projects
-- Learning machine learning algorithms
+- Learning ML
 - Creating a crypto-trading bot
 
 ## 📫 How to reach me
