@@ -1,7 +1,7 @@
 # Hello, I'm Artur 👋
 I'm a software developer specializing in Python and Django.
 
-## 👯 Core Skills and Experience 
+## 🧠 Core Skills and Experience 
 > These are the technologies I am highly proficient in and use in actual work scenarios.
 
 - 💻 Python | Django | Django-CMS
@@ -24,7 +24,7 @@ I'm a software developer specializing in Python and Django.
 - Learning ML
 - Creating a crypto-trading bot
 
-## 📫 How to reach me
+## ✉️ How to reach me
 - [LinkedIn](https://www.linkedin.com/in/artur-romanchenko-35636826b/)
 - [Telegram](https://t.me/nayti_mayonez)
 - [Write me](mailto:RomanchenkoAS@yandex.ru)
