@@ -1,18 +1,14 @@
 # Hello, I'm Artur 👋
 I'm a software developer specializing in Python and Django.
 
-## 🧠 Core Skills and Experience 
-> These are the technologies I am highly proficient in and use in actual work scenarios.
-
+### 🧠 Core Skills and Experience 
 - 💻 Python | Django | Django-CMS
 - 🐧 Ubuntu
 - 📦 Docker
 - 💾 PostgreSQL | Redis
 - 🌐 HTML | CSS | JavaScript
 
-## 🌱 Learning and Other Skills
-> These are the technologies I have some experience with or currently learning.
-
+### 🌱 Learning and Other Skills
 - 🛠️ C | C++
 - 🤖 C#
 - 🍃 MongoDB
