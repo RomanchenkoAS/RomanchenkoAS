@@ -17,10 +17,6 @@ I'm a software developer specializing in Python and Django.
 
 ## 🛠️ Currently Working On
 - Django-CMS projects
-- Learning ML
-- Creating a crypto-trading bot
+- Crypto-trading bot
 
-## ✉️ How to reach me
-- [LinkedIn](https://www.linkedin.com/in/artur-romanchenko-35636826b/)
-- [Telegram](https://t.me/nayti_mayonez)
-- [Write me](mailto:RomanchenkoAS@yandex.ru)
+# Contacts: [<img src="https://github.com/RomanchenkoAS/RomanchenkoAS/assets/119735427/6caca494-4647-4ac3-8bce-a08d58af2f53" width="30" height="30"/>](https://www.linkedin.com/in/artur-romanchenko-35636826b/) [<img src="https://github.com/RomanchenkoAS/RomanchenkoAS/assets/119735427/46308362-7c78-4a58-8d90-48db5a633dc9" width="30" height="30"/>](https://t.me/nayti_mayonez) [<img src="https://github.com/RomanchenkoAS/RomanchenkoAS/assets/119735427/d2e619f6-0280-4661-9511-4b7f4bad206b" width="30" height="30"/>](mailto:RomanchenkoAS@yandex.ru)
