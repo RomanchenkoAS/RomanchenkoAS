@@ -9,10 +9,10 @@ I'm a software developer specializing in Python and Django.
 - 🌐 HTML | CSS | JavaScript
 
 ### 🌱 Learning and Other Skills
+- 🐍 FastAPI | Flask
 - 🛠️ C | C++
 - 🤖 C#
 - 🍃 MongoDB
-- 🐍 Flask | FastAPI
 - 🦾 TensorFlow
 
 ## 🛠️ Currently Working On
