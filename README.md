@@ -4,7 +4,7 @@ I'm a software developer specializing in Python and Django.
 ### 🧠 Core Skills and Experience 
 - 💻 Python | Django | Celery | Django-CMS
 - 🐧 Ubuntu
-- 📦 Docker | Kubernetea
+- 📦 Docker | Kubernetes
 - 💾 PostgreSQL | Redis
 - 🌐 HTML | CSS | JavaScript
 
